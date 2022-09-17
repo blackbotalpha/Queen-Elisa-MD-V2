@@ -1,8 +1,8 @@
 {
-  "name": "QUEEN ELISA BOT 2.2.0 V",
+  "name": "BLACK ALPHA BOT 2.2.0 V",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "logo": "https://telegra.ph/file/ef85650aefce7ff31ed9c.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
   "env": {
@@ -192,12 +192,12 @@
  "SONG_DOWNLOAD" :{
   "description" : "SONG DOWNLOADING MASSAGE",
   "required" : true,
-  "value" :"🔁 SERACHING YOUR SONG"
+  "value" :"🔁 SERACHING YOUR SONG ඔයාගේ සින්දුව හොයනකම් ඉන්නකෝ"
   },
  "SONG_UPLOAD" :{
   "description" : "SONG UPLOADING MASSAGE",
   "required" : true,
-  "value" :"📤 UPLOADING YOUR SONG"
+  "value" :"📤 UPLOADING YOUR SONG ඔයාගේ සින්දුව මග එනෝ"
   },
  "VOICE_REPLY" :{
   "description" : "REPLY GIRL VOICE",
