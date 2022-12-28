@@ -18,13 +18,13 @@
 },
 
 "OWNER_NUMBER" :{
-  "description" : "OWNER NUMBER",
+  "description" : "94770378874",
   "required" : false,
   "value" :"94715166712"
   },
 
  "ALIVE_MESSAGE" :{
-  "description" : "TYPE YOUR ALIVE MASSAGE",
+  "description" : "🌱𝙷𝙸 𝚒,𝚖 𝚋𝚕𝚊𝚌𝚔 𝚜𝚞𝚔𝚒 𝚖𝚍",
   "required" : false,
 "value" : "default"
   },
@@ -56,11 +56,11 @@
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐁𝐋𝐀𝐂𝐊 𝐕2"
   },
 
   "OWNER_NAME" :{
-  "description" : "YOUR NAME",
+  "description" : "𝐒𝐔𝐊𝐈",
   "requred" : false,
   "value" :"ＭＲ ＮＩＭＡ"
   },
@@ -72,7 +72,7 @@
   },
 
   "STICKER_AUTHOR_NAME" :{
-  "description" : "STICKER AUTHOR NAME",
+  "description" : "𝐁𝐋𝐀𝐂𝐊 𝐒𝐔𝐊𝐈",
   "requred" : true,
   "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
   },
